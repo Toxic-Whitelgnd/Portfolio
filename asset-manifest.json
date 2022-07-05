@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.526ddf89.css",
+    "main.js": "/Portfolio/static/js/main.0e1caa50.js",
+    "static/media/tarun right.png": "/Portfolio/static/media/tarun right.c50112fe75bd780e033f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.526ddf89.css.map": "/Portfolio/static/css/main.526ddf89.css.map",
+    "main.0e1caa50.js.map": "/Portfolio/static/js/main.0e1caa50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526ddf89.css",
+    "static/js/main.0e1caa50.js"
+  ]
+}
