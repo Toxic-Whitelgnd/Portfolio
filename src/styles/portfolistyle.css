@@ -78,6 +78,7 @@
     text-transform: uppercase;
     animation:rgb2 4s infinite alternate-reverse;
     margin-bottom: 10px;
+    font-family: 'Rubik Wet Paint', cursive;
 
 }
 .content .skill{
@@ -91,6 +92,7 @@
     text-transform: uppercase;
     animation:rgb 4s infinite alternate-reverse;
     margin-bottom: 10px;
+    font-family: 'Caveat', cursive;
 
 }
 @keyframes rgb{
@@ -118,12 +120,13 @@
     text-decoration: none;
     transition: 0.5s;
     animation:rgb2 5s infinite alternate;
+    font-family: 'Rubik Glitch', cursive;
 }
 @keyframes rgb2{
-    0%{color: rgb(226, 91, 38);}
-    25%{color:violet;}
+    0%{color: rgb(226, 51, 51);}
+    25%{color:rgb(35, 26, 163);}
     50%{color: turquoise;}
-    75%{color: rebeccapurple;}
+    75%{color: rgb(153, 51, 51);}
     100%{color: rgb(16, 238, 109);}
 }
 
