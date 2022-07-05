@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.526ddf89.css",
-    "main.js": "/Portfolio/static/js/main.0e1caa50.js",
+    "main.css": "/Portfolio/static/css/main.598aeadf.css",
+    "main.js": "/Portfolio/static/js/main.750b9b7c.js",
     "static/media/tarun right.png": "/Portfolio/static/media/tarun right.c50112fe75bd780e033f.png",
     "index.html": "/Portfolio/index.html",
-    "main.526ddf89.css.map": "/Portfolio/static/css/main.526ddf89.css.map",
-    "main.0e1caa50.js.map": "/Portfolio/static/js/main.0e1caa50.js.map"
+    "main.598aeadf.css.map": "/Portfolio/static/css/main.598aeadf.css.map",
+    "main.750b9b7c.js.map": "/Portfolio/static/js/main.750b9b7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.526ddf89.css",
-    "static/js/main.0e1caa50.js"
+    "static/css/main.598aeadf.css",
+    "static/js/main.750b9b7c.js"
   ]
 }
